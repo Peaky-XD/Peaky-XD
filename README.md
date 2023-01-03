@@ -35,7 +35,6 @@ Skills: PYTHON & HTML
 
 ![Profile views](https://gpvc.arturio.dev/SPOILT-X )  
 
-- ![Alt text](https://github.com/MRVIVEK-CODER/MRVIVEK-CODER/raw/main/Developer.gif)
 <img src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" min-width="1500px" max-width="1500px" width="1500px" align="middle" alt="Computador iuriCode">
 
 
@@ -43,7 +42,7 @@ Skills: PYTHON & HTML
 
 
 
-<img src="https://github.com/Voyz/voyz_public/blob/master/databay_promo_vidA_gif_A03.gif" alt="Databay showcase gif" title="Databay showcase gif" width="500"/>
+
 
 ![Alt text](https://github.com/MRVIVEK-CODER/Decompiler/raw/main/106824690-8dd73a00-66ad-11eb-89e2-53e13ac6f594.gif)
 

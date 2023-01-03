@@ -38,11 +38,10 @@ Skills: PYTHON & HTML
 - ![Alt text](https://github.com/MRVIVEK-CODER/MRVIVEK-CODER/raw/main/Developer.gif)
 <img src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" min-width="1500px" max-width="1500px" width="1500px" align="middle" alt="Computador iuriCode">
 
-![Alt text](https://github.com/MRVIVEK-CODER/MRVIVEK-CODER/raw/main/md7Oqrf.gif)
 
 </p>
 
-![](https://img.shields.io/badge/<N1LOY_V4U>-<niloy0-H4CK3R>-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+
 
 <img src="https://github.com/Voyz/voyz_public/blob/master/databay_promo_vidA_gif_A03.gif" alt="Databay showcase gif" title="Databay showcase gif" width="500"/>
 

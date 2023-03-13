@@ -1,4 +1,4 @@
-### Hi there 👋, Iam MINHAJUL ISLAM 
+### Hi there 👋, Iam THOMAS SHELBY
 <p align="center"><img src="https://img.shields.io/badge/MADE%20IN BANGLADESHI- PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
 
 <h3 align="center">
@@ -24,16 +24,16 @@ Skills: PYTHON & HTML
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=SPOILT-X )](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Peaky-XD )](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SPOILT-X )](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Peaky-XD )](https://github.com/anuraghazra/github-readme-stats)
 
-![P4RVEJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=SPOILT-X&show_icons=true&theme=chartreuse-dark)  
+![P4RVEJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=Peaky-XD&show_icons=true&theme=chartreuse-dark)  
 
 
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=P4RVEJ&layout=compact&theme=chartreuse-dark" />
 
-![Profile views](https://gpvc.arturio.dev/SPOILT-X )  
+![Profile views](https://gpvc.arturio.dev/Peaky-XD )  
 
 <img src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" min-width="1500px" max-width="1500px" width="1500px" align="middle" alt="Computador iuriCode">
 
@@ -49,8 +49,8 @@ Skills: PYTHON & HTML
 <h1> THIS IS MY REAL GITHUB ACCOUANT<h5/>
 <h2>MY SOCIAL MEDIA<h2/>
 
-[![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=red&labelColor=black)](https://github.com/SPOILT-X) <br>
-[![](https://img.shields.io/badge/Facebook-black?logo=Facebook&logoColor=red&labelColor=blue)](https://www.facebook.com/S.I.N1434) <br>
-[![](https://img.shields.io/badge/Facebook-black?logo=Facebook&logoColor=yellow&labelColor=red)](https://facebook.com/groups/737172040863921/) <br>
+[![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=red&labelColor=black)](https://github.com/Peaky-XD) <br>
+[![](https://img.shields.io/badge/Facebook-black?logo=Facebook&logoColor=red&labelColor=blue)](https://www.facebook.com/profile.php?id=100090312562344) <br>
+[![](https://img.shields.io/badge/Facebook-black?logo=Facebook&logoColor=yellow&labelColor=red)](https://www.facebook.com/groups/1626280367831698/) <br>
 
 <h2> THANKS FOR VISIT <h2\>

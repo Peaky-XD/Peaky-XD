@@ -50,7 +50,7 @@ Skills: PYTHON & HTML
 <h2>MY SOCIAL MEDIA<h2/>
 
 [![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=red&labelColor=black)](https://github.com/Peaky-XD) <br>
-[![](https://img.shields.io/badge/Facebook-black?logo=Facebook&logoColor=red&labelColor=blue)](https://www.facebook.com/profile.php?id=100090312562344) <br>
-[![](https://img.shields.io/badge/Facebook-black?logo=Facebook&logoColor=yellow&labelColor=red)](https://www.facebook.com/groups/1626280367831698/) <br>
+[![](https://img.shields.io/badge/Facebook-black?logo=Facebook&logoColor=red&labelColor=blue)](https://www.facebook.com/peaky09) <br>
+[![](https://img.shields.io/badge/Facebook-black?logo=Facebook&logoColor=yellow&labelColor=red)](https://www.facebook.com/groups/peaky09/) <br>
 
 <h2> THANKS FOR VISIT <h2\>

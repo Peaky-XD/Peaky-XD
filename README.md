@@ -1,10 +1,24 @@
 <a href="https://github.com/Peaky-XD"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=Peaky-XD&theme=monokai"></a>
- 
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
 <h2> <img width="25" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-stats.png" /><i> GitHub Stats :</i></h2>
- 
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
+• Team Peaky-XD
+<br>
+    -MINHAJUL ISLAM
+<br>
+    -IMRAN HOSSAIN
+<br>
+    -MAHIR TAHSAN
+<br>
+    -FAHAD AL SAMI
+<br>
+    -FARHAN AHMED 
+<br>
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
 <table border="1">
   <tr>
     <td valign="top"><a href="https://github.com/Peaky-XD/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=Peaky-XD&count_private=true&show_icons=true&icon_color=FFA500&title_color=f4791f&bg_color=0,03071e,0F2027,03071e&text_color=abcdef&border_radius=10" alt ="Team Peaky-XD's GitHub stats"/></td> </a>
+    <img src = "https://raw.githubusercontent.com/msoftware/msoftware/output/github-contribution-grid-snake.svg"
     <td valign="top"> <a href="https://github.com/Peaky-XD/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peaky-XD&layout=compact&langs_count=10" alt ="Top Languages"/></td>
     </a>
   </tr>

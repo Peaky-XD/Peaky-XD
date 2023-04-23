@@ -1,56 +1,23 @@
-### Hi there 👋, Iam THOMAS SHELBY
-<p align="center"><img src="https://img.shields.io/badge/MADE%20IN BANGLADESHI- PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
-
-<h3 align="center">
-
-<img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
-
-&nbsp; 𝚆𝙴𝙻𝙲𝙾𝙼𝙴 𝚃𝙾 𝙼𝚈 𝙿𝚁𝙾𝙵𝙸𝙻𝙴&nbsp;
-
-<img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
-
-
-#### A NOOB DEVOLAPAR 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=25&color=30FF40&background=000000&center=true&vCenter=true&width=360&height=60&lines=Hello+World%2C+I'm+Thomas+Here+🤙;𝙸𝚃'𝚜+𝙽𝙾𝚃+𝙰+𝙹𝚄𝚂𝚃+𝙽𝙰𝙼𝙴+𝙱𝚁𝙾+🥱;𝙸𝚃'𝚜+𝙰+𝙱𝚁𝙰𝙽𝙳+🔥;Respect+Peaky-XD+😊;It's+my+real+github+account+😇;Please+Follow+My+GitHub;Thanks+My+All+Friend+🤙;Love+From+Bangladesh🇧🇩)](https://git.io/typing-svg)
-<br/>
-<br/>
-<br/>
-Skills: PYTHON & HTML
-
-- 🔭 I’m currently working on Git Hub 
-- 🌱 I’m currently learning Python&HTML 
-- ⚡ Fun fact: IAM  A  NOOB
-
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Peaky-XD )](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Peaky-XD )](https://github.com/anuraghazra/github-readme-stats)
-
-![P4RVEJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=Peaky-XD&show_icons=true&theme=chartreuse-dark)  
-
-
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=P4RVEJ&layout=compact&theme=chartreuse-dark" />
-
-![Profile views](https://gpvc.arturio.dev/Peaky-XD )  
-
-<img src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" min-width="1500px" max-width="1500px" width="1500px" align="middle" alt="Computador iuriCode">
-
-
+<a href="https://github.com/Peaky-XD"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=Peaky-XD&theme=monokai"></a>
+ 
+<h2> <img width="25" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-stats.png" /><i> GitHub Stats :</i></h2>
+ 
+<table border="1">
+  <tr>
+    <td valign="top"><a href="https://github.com/Peaky-XD/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=Peaky-XD&count_private=true&show_icons=true&icon_color=FFA500&title_color=f4791f&bg_color=0,03071e,0F2027,03071e&text_color=abcdef&border_radius=10" alt ="Team Peaky-XD's GitHub stats"/></td> </a>
+    <td valign="top"> <a href="https://github.com/Peaky-XD/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peaky-XD&layout=compact&langs_count=10" alt ="Top Languages"/></td>
+    </a>
+  </tr>
+   <tr>
+    <td colspan="2" align="center"> <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=Peaky-XD&hide_border=true&background=f6f8fa&stroke=001427&ring=e36414&fire=e36414&currStreakNum=03045e&sideNums=03045e&currStreakLabel=03045e&sideLabels=240046&dates=fb5607&date_format=j%20M%5B%20Y%5D" alt ="Mahadi's GitHub Readme Streak Stats"/> </a>  </td> 
+    
+  </tr>
+</table>
+<br>
+ 
+<br>
+<p align="center">
+<a href="https://github.com/Peaky-XD/github-readme-activity-graph#gh-dark-mode-only">
+ <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Peaky-XD&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
+</a>
 </p>
-
-
-
-
-
-![Alt text](https://github.com/MRVIVEK-CODER/Decompiler/raw/main/106824690-8dd73a00-66ad-11eb-89e2-53e13ac6f594.gif)
-
-<h1> THIS IS MY REAL GITHUB ACCOUANT<h5/>
-<h2>MY SOCIAL MEDIA<h2/>
-
-[![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=red&labelColor=black)](https://github.com/Peaky-XD) <br>
-[![](https://img.shields.io/badge/Facebook-black?logo=Facebook&logoColor=red&labelColor=blue)](https://www.facebook.com/peaky09) <br>
-[![](https://img.shields.io/badge/Facebook-black?logo=Facebook&logoColor=yellow&labelColor=red)](https://www.facebook.com/groups/peaky09/) <br>
-
-<h2> THANKS FOR VISIT <h2\>

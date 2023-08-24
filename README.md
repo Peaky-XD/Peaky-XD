@@ -1,4 +1,3 @@
-🖼️ **Profile Picture**
 [![Profile Picture](https://github.com/Peaky-XD.png)](https://github.com/Peaky-XD)
 
 🌐 **Explore more about us:**

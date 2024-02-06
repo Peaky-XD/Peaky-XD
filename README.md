@@ -27,10 +27,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/kubernetes/kubernetes.png"></code>
 </div>
 <br>
-<strong>Github stats</strong>
-
-![Peaky's GitHub stats](https://github-readme-stats.vercel.app/api?username=Peaky-XD&hide=prs&count_private=true&include_all_commits=true&show_icons=true&theme=swift)
-
 
 ## 💼 **About Us**
 
